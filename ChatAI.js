@@ -1,9 +1,4 @@
-/*
- * Created by David Adams
- * https://codeshack.io/build-ai-powered-chatbot-openai-chatgpt-javascript/
- * 
- * Released under the MIT license
- */
+
 'use strict';
 class ChatAI {
 
